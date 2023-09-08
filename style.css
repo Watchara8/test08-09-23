@@ -1,0 +1,14 @@
+a:link,a:visited {
+  color: #400080;
+  background: #ffffd8;
+}
+.answer {
+  color: red;
+}
+#copyright {
+  font-style: italic;
+  font-size: smaller;
+}
+label{
+    font-weight: 700;
+}
